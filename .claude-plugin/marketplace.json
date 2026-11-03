@@ -1,0 +1,5 @@
+{
+  "name": "littlehorse",
+  "owner": { "name": "littlehorse" },
+  "plugins": [{ "name": "session-dock", "source": "./" }]
+}

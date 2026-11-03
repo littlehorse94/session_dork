@@ -1,0 +1,1 @@
+{ "name": "session-dock", "version": "0.1.0", "description": "Glass-style dock of every Claude Code session on this computer, grouped by Working, Needs you and Idle, with a subtle backdrop per chat", "types": "./types/index.d.ts" }
